@@ -30,6 +30,8 @@ namespace example_002
             WriteLine("c >> 1 : {0:D5} (0x{0:x8})", c >> 1);
             WriteLine("c >> 2 : {0:D5} (0x{0:x8})", c >> 2);
             WriteLine("c >> 5 : {0:D5} (0x{0:x8})", c >> 5);
+
+            WriteLine("\nShift 연산자 예제 Finish");
         }
     }
 }
