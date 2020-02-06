@@ -1,0 +1,11 @@
+D:\private_study\C_hash\2020\02\study_20200206\example_001\example_001\bin\Debug\netcoreapp3.1\example_001.exe
+D:\private_study\C_hash\2020\02\study_20200206\example_001\example_001\bin\Debug\netcoreapp3.1\example_001.deps.json
+D:\private_study\C_hash\2020\02\study_20200206\example_001\example_001\bin\Debug\netcoreapp3.1\example_001.runtimeconfig.json
+D:\private_study\C_hash\2020\02\study_20200206\example_001\example_001\bin\Debug\netcoreapp3.1\example_001.runtimeconfig.dev.json
+D:\private_study\C_hash\2020\02\study_20200206\example_001\example_001\bin\Debug\netcoreapp3.1\example_001.dll
+D:\private_study\C_hash\2020\02\study_20200206\example_001\example_001\bin\Debug\netcoreapp3.1\example_001.pdb
+D:\private_study\C_hash\2020\02\study_20200206\example_001\example_001\obj\Debug\netcoreapp3.1\example_001.csprojAssemblyReference.cache
+D:\private_study\C_hash\2020\02\study_20200206\example_001\example_001\obj\Debug\netcoreapp3.1\example_001.AssemblyInfoInputs.cache
+D:\private_study\C_hash\2020\02\study_20200206\example_001\example_001\obj\Debug\netcoreapp3.1\example_001.AssemblyInfo.cs
+D:\private_study\C_hash\2020\02\study_20200206\example_001\example_001\obj\Debug\netcoreapp3.1\example_001.dll
+D:\private_study\C_hash\2020\02\study_20200206\example_001\example_001\obj\Debug\netcoreapp3.1\example_001.pdb
