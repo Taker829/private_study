@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\private_study\\C_sharp\\2020\\02\\study_20200210\\example_003\\example_003\\example_003.csproj": {}
+    "D:\\private_study\\C_sharp\\2020\\02\\study_20200218\\example_002\\example_002\\example_002.csproj": {}
   },
   "projects": {
-    "D:\\private_study\\C_sharp\\2020\\02\\study_20200210\\example_003\\example_003\\example_003.csproj": {
+    "D:\\private_study\\C_sharp\\2020\\02\\study_20200218\\example_002\\example_002\\example_002.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\private_study\\C_sharp\\2020\\02\\study_20200210\\example_003\\example_003\\example_003.csproj",
-        "projectName": "example_003",
-        "projectPath": "D:\\private_study\\C_sharp\\2020\\02\\study_20200210\\example_003\\example_003\\example_003.csproj",
+        "projectUniqueName": "D:\\private_study\\C_sharp\\2020\\02\\study_20200218\\example_002\\example_002\\example_002.csproj",
+        "projectName": "example_002",
+        "projectPath": "D:\\private_study\\C_sharp\\2020\\02\\study_20200218\\example_002\\example_002\\example_002.csproj",
         "packagesPath": "C:\\Users\\UNS_JHKo\\.nuget\\packages\\",
-        "outputPath": "D:\\private_study\\C_sharp\\2020\\02\\study_20200210\\example_003\\example_003\\obj\\",
+        "outputPath": "D:\\private_study\\C_sharp\\2020\\02\\study_20200218\\example_002\\example_002\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
