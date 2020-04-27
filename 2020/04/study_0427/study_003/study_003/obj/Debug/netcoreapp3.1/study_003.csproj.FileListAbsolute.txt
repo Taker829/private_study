@@ -1,0 +1,11 @@
+D:\private_study\2020\04\study_0427\study_003\study_003\obj\Debug\netcoreapp3.1\study_003.csprojAssemblyReference.cache
+D:\private_study\2020\04\study_0427\study_003\study_003\obj\Debug\netcoreapp3.1\study_003.AssemblyInfoInputs.cache
+D:\private_study\2020\04\study_0427\study_003\study_003\obj\Debug\netcoreapp3.1\study_003.AssemblyInfo.cs
+D:\private_study\2020\04\study_0427\study_003\study_003\obj\Debug\netcoreapp3.1\study_003.dll
+D:\private_study\2020\04\study_0427\study_003\study_003\obj\Debug\netcoreapp3.1\study_003.pdb
+D:\private_study\2020\04\study_0427\study_003\study_003\bin\Debug\netcoreapp3.1\study_003.exe
+D:\private_study\2020\04\study_0427\study_003\study_003\bin\Debug\netcoreapp3.1\study_003.deps.json
+D:\private_study\2020\04\study_0427\study_003\study_003\bin\Debug\netcoreapp3.1\study_003.runtimeconfig.json
+D:\private_study\2020\04\study_0427\study_003\study_003\bin\Debug\netcoreapp3.1\study_003.runtimeconfig.dev.json
+D:\private_study\2020\04\study_0427\study_003\study_003\bin\Debug\netcoreapp3.1\study_003.dll
+D:\private_study\2020\04\study_0427\study_003\study_003\bin\Debug\netcoreapp3.1\study_003.pdb
