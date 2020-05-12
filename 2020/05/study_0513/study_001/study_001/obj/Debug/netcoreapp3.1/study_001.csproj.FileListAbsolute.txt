@@ -1,0 +1,10 @@
+D:\private_study\2020\05\study_0513\study_001\study_001\bin\Debug\netcoreapp3.1\study_001.exe
+D:\private_study\2020\05\study_0513\study_001\study_001\bin\Debug\netcoreapp3.1\study_001.deps.json
+D:\private_study\2020\05\study_0513\study_001\study_001\bin\Debug\netcoreapp3.1\study_001.runtimeconfig.json
+D:\private_study\2020\05\study_0513\study_001\study_001\bin\Debug\netcoreapp3.1\study_001.runtimeconfig.dev.json
+D:\private_study\2020\05\study_0513\study_001\study_001\bin\Debug\netcoreapp3.1\study_001.dll
+D:\private_study\2020\05\study_0513\study_001\study_001\bin\Debug\netcoreapp3.1\study_001.pdb
+D:\private_study\2020\05\study_0513\study_001\study_001\obj\Debug\netcoreapp3.1\study_001.AssemblyInfoInputs.cache
+D:\private_study\2020\05\study_0513\study_001\study_001\obj\Debug\netcoreapp3.1\study_001.AssemblyInfo.cs
+D:\private_study\2020\05\study_0513\study_001\study_001\obj\Debug\netcoreapp3.1\study_001.dll
+D:\private_study\2020\05\study_0513\study_001\study_001\obj\Debug\netcoreapp3.1\study_001.pdb
